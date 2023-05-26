@@ -217,3 +217,11 @@ const num = 3;
 //   default:
 //     break;
 // }
+
+// const userAge = prompt('Скільки вам років');
+
+// userAge >= 18 ? console.log('Вхід дозволено !') : console.log('Вхід заборонено !');
+
+// const user = 'ivan';
+
+// console.log(user.toLowerCase() === 'ivan' ? 'Привіт іван' : 'Невідомий user !');
