@@ -144,9 +144,9 @@
 // console.log(false && true && true) // false
 
 
-// const user = 'gogi'
+// const user = 'vlad'
 
-// console.log(user === 'vlad' && 'Hello Vlad')
+// console.log(user === 'vlad' && 'Hello vlad')
 
 // || - Логічне або
 
